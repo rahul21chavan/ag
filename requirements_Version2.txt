@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+sqlparse
+pandas
+flake8
+openai
+google-generativeai
